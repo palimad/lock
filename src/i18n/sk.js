@@ -67,7 +67,7 @@ export default {
   databaseAlternativeSignUpInstructions: 'alebo',
   emailInputPlaceholder: 'vas@priklad.sk',
   enterpriseLoginIntructions: 'Prihláste sa svojim firemným účtom.',
-  enterpriseActiveLoginInstructions: 'Prosím zadajt údaju k svojmu firemnému účtu %s.',
+  enterpriseActiveLoginInstructions: 'Prosím zadajte údaje k svojmu firemnému účtu %s.',
   failedLabel: 'Chyba!',
   forgotPasswordTitle: 'Obnoviť heslo',
   forgotPasswordAction: 'Nepamätáte si svoje heslo?',
